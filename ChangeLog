@@ -1,5 +1,8 @@
 2009-05-07  Kenta Murata  <mrkn@mrkn.jp>
 
+	* test/test_ctime_classifier.rb, lib/ctime_classifier.rb: a test
+	and an implementation for CTimeClassifier class.
+
 	* test/test_daily_classifier.rb, bin/daily_classifier.rb: a test
 	and an implementation for list_directory method.
 
