@@ -1,5 +1,8 @@
 2009-05-07  Kenta Murata  <mrkn@mrkn.jp>
 
+	* test/test_daily_classifier.rb, bin/daily_classifier.rb: a test
+	and an implementation for list_directory method.
+
 	* test/run_test.rb, test/test_helper.rb: testing environment.
 
 2009-04-28  Kenta Murata  <mrkn@mrkn.jp>
